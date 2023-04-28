@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "Vue.vscode-typescript-vue-plugin",
+    "Vue.volar",
+    "dbaeumer.vscode-eslint",
+    "bradlc.vscode-tailwindcss",
+    "hex-ci.stylelint-plus",
+    "stylelint.vscode-stylelint",
+  ]
+}

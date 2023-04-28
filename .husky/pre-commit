@@ -1,0 +1,8 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+cd application
+npm run lint-staged
+cd ../
+# TODO: Add once infrastructure is scafollded
+# cd infrastructure
+# npm run lint
