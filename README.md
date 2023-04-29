@@ -1,5 +1,6 @@
 # Storyblok App Starter
-Since Storyblok's offical app starter is still based on Vue 2 / Nuxt 2, you can find an up-2-date app launcher with Vue 3 / Nuxt 3 and a revised oauth authentication here.
+Storyblok's [official app starter is still based on Nuxt 2)[https://github.com/storyblok/storyblok-workflow-app].
+This starter provides a Nuxt 3 alternative.
 If you have any feedback, please let us know now in the Issues section or send us a PR.
 
 
