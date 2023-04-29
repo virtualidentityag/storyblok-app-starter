@@ -1,4 +1,8 @@
 # Storyblok App Starter
+Storyblok's [official app starter is still based on Nuxt 2)[https://github.com/storyblok/storyblok-workflow-app].
+This starter provides a Nuxt 3 alternative.
+If you have any feedback, please let us know now in the Issues section or send us a PR.
+
 
 Under `/application`, find the source code with server and client side logic.
 
