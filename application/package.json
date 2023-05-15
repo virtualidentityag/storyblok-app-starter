@@ -27,7 +27,7 @@
     "@vue/test-utils": "^2.3.2",
     "autoprefixer": "^10.4.14",
     "eslint": "^8.38.0",
-    "jsdom": "^21.1.1",
+    "jsdom": "^22.0.0",
     "lint-staged": "^13.2.1",
     "nuxt": "^3.4.1",
     "playwright": "^1.33.0",
